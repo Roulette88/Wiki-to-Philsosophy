@@ -1,0 +1,32 @@
+{
+    "name": "getting-to-philosophy-2021-roulette880",
+    "version": "1.0.0",
+    "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7376400&assignment_repo_type=AssignmentRepo)",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "index.js": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://Roulette880: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@github.com/SLHSCS/getting-to-philosophy-2021-Roulette880.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SLHSCS/getting-to-philosophy-2021-Roulette880/issues"
+    },
+    "homepage": "https://github.com/SLHSCS/getting-to-philosophy-2021-Roulette880#readme",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "cheerio": "^1.0.0-rc.10",
+        "jssoup": "^0.0.15",
+        "pretty": "^2.0.0",
+        "puppeteer": "^13.5.1",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6",
+        "wikijs": "^6.3.3",
+        "wikipedia": "^1.1.8",
+        "wikipedia-link-game": "^0.1.0"
+    }
+}
